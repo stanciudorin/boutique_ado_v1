@@ -88,7 +88,8 @@ a.category-badge > span.badge:hover {
     color: #fff !important;
 }
 
-.btt-button{
+.btt-button
+{
     height: 42px;
     width: 42px;
     position: fixed;
@@ -96,7 +97,10 @@ a.category-badge > span.badge:hover {
     right: 10px;
 }
 
-.btt-link{
+.btt-link,
+.update-link,
+.remove-link
+{
     cursor: pointer;
 }
 
